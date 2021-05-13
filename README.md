@@ -39,7 +39,7 @@ $ npm run dev
 ![Css3](https://img.shields.io/badge/-Css3-146EB0?style=flat-square&logo=Css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-EFD81D?style=flat-square&logo=Javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Next](https://img.shields.io/badge/-Next-212121?style=flat-square&logo=Next.js&logoColor=white)
+![Next](https://img.shields.io/badge/-Next.js-212121?style=flat-square&logo=Next.js&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-2F74C0?style=flat-square&logo=TypeScript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
